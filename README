@@ -1,0 +1,29 @@
+Important 
+---------
+
+These clock files are tested on Kubuntu 15.04, Plasma 5 and the screenshots are also from the same.
+
+If you are going to try in Plasma KDE 4, it may not look the same as screenshot, since you are advised to try it locally with my smoothx theme, before you attempt to go systemwide.
+
+-------------------------------------------------------------------------------------
+
+
+These are the clock files are to replace the original in your theme.
+These clocks will best suit glass, dark themes with dark wallpaper.
+which I created for my own use and shared the same if you will be interested.
+
+please backup your original theme clock before you copy
+
+just copy the clock.svgz file from the appropriate folder into your theme folder.
+
+for systemwide 
+it will be in the /usr/share/plasma/desktoptheme/your-theme-folder/widgets/ for this you will need sudo power. and please do it with utmost care.
+
+for personal use
+/home/your-name/.local/share/plasma/desktoptheme/theme-folder/widgets/
+
+this software comes with absolutely no warranty.
+Please read the creative commons Attribution-ShareAlike 4.0 International licence at
+http://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Thankyou.
