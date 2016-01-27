@@ -8,7 +8,7 @@ If you are going to try in Plasma KDE 4, it may not look the same as screenshot,
 -------------------------------------------------------------------------------------
 
 
-These are the clock files are to replace the original in your theme.
+These clock files are to replace the original in your theme.
 These clocks will best suit glass, dark themes with dark wallpaper.
 which I created for my own use and shared the same if you will be interested.
 
@@ -22,8 +22,20 @@ it will be in the /usr/share/plasma/desktoptheme/your-theme-folder/widgets/ for 
 for personal use
 /home/your-name/.local/share/plasma/desktoptheme/theme-folder/widgets/
 
-this software comes with absolutely no warranty.
+Also you may have to clear the cache.. for which
+open a terminal ( Konsole )
+
+rm -r ~/.cache/plasma-svg*
+rm -r /var/tmp/kdecache-$USER
+rm ~/.config/Trolltech.conf
+
+then logout and login.
+
+
+This software comes with absolutely no warranty.
 Please read the creative commons Attribution-ShareAlike 4.0 International licence at
 http://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+
 
 Thankyou.
